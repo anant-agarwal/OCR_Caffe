@@ -1,0 +1,568 @@
+Sample81/imgArial.png 26
+Sample102/imgImpact.png 41
+Sample118/imgTimes New Roman.png 57
+Sample57/imgImpact.png 9
+Sample105/imgImpact.png 44
+Sample52/imgCourier New.png 4
+Sample50/imgComic Sans MS.png 2
+Sample86/imgComic Sans MS.png 31
+Sample118/imgVerdana.png 57
+Sample117/imgTimes New Roman.png 56
+Sample74/imgArial Black.png 19
+Sample105/imgTrebuchet MS.png 44
+Sample100/imgTimes New Roman.png 39
+Sample56/imgTrebuchet MS.png 8
+Sample107/imgImpact.png 46
+Sample104/imgArial Black.png 43
+Sample100/imgImpact.png 39
+Sample117/imgVerdana.png 56
+Sample87/imgArial.png 32
+Sample114/imgGeorgia.png 53
+Sample73/imgArial Black.png 18
+Sample48/imgArial Narrow.png 0
+Sample81/imgVerdana.png 26
+Sample75/imgGeorgia.png 20
+Sample71/imgCourier New.png 16
+Sample71/imgGeorgia.png 16
+Sample122/imgVerdana.png 61
+Sample82/imgCourier New.png 27
+Sample79/imgComic Sans MS.png 24
+Sample71/imgImpact.png 16
+Sample87/imgTimes New Roman.png 32
+Sample104/imgVerdana.png 43
+Sample122/imgArial.png 61
+Sample53/imgComic Sans MS.png 5
+Sample110/imgArial Black.png 49
+Sample55/imgCourier New.png 7
+Sample56/imgImpact.png 8
+Sample106/imgComic Sans MS.png 45
+Sample87/imgTrebuchet MS.png 32
+Sample100/imgArial.png 39
+Sample103/imgTrebuchet MS.png 42
+Sample98/imgTrebuchet MS.png 37
+Sample67/imgCourier New.png 12
+Sample99/imgCourier New.png 38
+Sample103/imgArial Black.png 42
+Sample99/imgGeorgia.png 38
+Sample69/imgTimes New Roman.png 14
+Sample68/imgArial Black.png 13
+Sample88/imgImpact.png 33
+Sample73/imgImpact.png 18
+Sample55/imgVerdana.png 7
+Sample69/imgArial Black.png 14
+Sample70/imgArial.png 15
+Sample111/imgComic Sans MS.png 50
+Sample113/imgArial Black.png 52
+Sample105/imgArial.png 44
+Sample99/imgArial Black.png 38
+Sample82/imgImpact.png 27
+Sample51/imgImpact.png 3
+Sample48/imgGeorgia.png 0
+Sample111/imgArial.png 50
+Sample57/imgComic Sans MS.png 9
+Sample68/imgTimes New Roman.png 13
+Sample57/imgArial.png 9
+Sample97/imgTrebuchet MS.png 36
+Sample80/imgGeorgia.png 25
+Sample72/imgTimes New Roman.png 17
+Sample55/imgArial.png 7
+Sample75/imgArial.png 20
+Sample107/imgTimes New Roman.png 46
+Sample98/imgImpact.png 37
+Sample69/imgCourier New.png 14
+Sample99/imgTimes New Roman.png 38
+Sample49/imgTrebuchet MS.png 1
+Sample109/imgArial.png 48
+Sample106/imgTimes New Roman.png 45
+Sample83/imgTrebuchet MS.png 28
+Sample56/imgGeorgia.png 8
+Sample66/imgCourier New.png 11
+Sample121/imgCourier New.png 60
+Sample52/imgTimes New Roman.png 4
+Sample110/imgCourier New.png 49
+Sample48/imgTrebuchet MS.png 0
+Sample82/imgTrebuchet MS.png 27
+Sample54/imgImpact.png 6
+Sample74/imgTimes New Roman.png 19
+Sample116/imgTimes New Roman.png 55
+Sample111/imgVerdana.png 50
+Sample53/imgCourier New.png 5
+Sample50/imgTimes New Roman.png 2
+Sample104/imgArial.png 43
+Sample103/imgCourier New.png 42
+Sample97/imgCourier New.png 36
+Sample48/imgImpact.png 0
+Sample74/imgTrebuchet MS.png 19
+Sample110/imgImpact.png 49
+Sample120/imgCourier New.png 59
+Sample73/imgCourier New.png 18
+Sample98/imgArial Black.png 37
+Sample111/imgImpact.png 50
+Sample53/imgImpact.png 5
+Sample67/imgTrebuchet MS.png 12
+Sample75/imgVerdana.png 20
+Sample112/imgCourier New.png 51
+Sample84/imgImpact.png 29
+Sample99/imgTrebuchet MS.png 38
+Sample114/imgArial.png 53
+Sample120/imgGeorgia.png 59
+Sample100/imgComic Sans MS.png 39
+Sample90/imgArial Black.png 35
+Sample111/imgTrebuchet MS.png 50
+Sample111/imgGeorgia.png 50
+Sample111/imgCourier New.png 50
+Sample89/imgGeorgia.png 34
+Sample68/imgCourier New.png 13
+Sample56/imgComic Sans MS.png 8
+Sample109/imgGeorgia.png 48
+Sample86/imgGeorgia.png 31
+Sample109/imgImpact.png 48
+Sample65/imgCourier New.png 10
+Sample114/imgArial Black.png 53
+Sample107/imgVerdana.png 46
+Sample100/imgCourier New.png 39
+Sample117/imgGeorgia.png 56
+Sample82/imgVerdana.png 27
+Sample90/imgCourier New.png 35
+Sample112/imgImpact.png 51
+Sample90/imgVerdana.png 35
+Sample85/imgCourier New.png 30
+Sample103/imgTimes New Roman.png 42
+Sample87/imgArial Black.png 32
+Sample101/imgTrebuchet MS.png 40
+Sample65/imgVerdana.png 10
+Sample54/imgComic Sans MS.png 6
+Sample80/imgVerdana.png 25
+Sample89/imgArial Black.png 34
+Sample89/imgTimes New Roman.png 34
+Sample113/imgTrebuchet MS.png 52
+Sample113/imgImpact.png 52
+Sample75/imgComic Sans MS.png 20
+Sample54/imgGeorgia.png 6
+Sample51/imgGeorgia.png 3
+Sample75/imgCourier New.png 20
+Sample113/imgCourier New.png 52
+Sample48/imgCourier New.png 0
+Sample81/imgArial Black.png 26
+Sample71/imgTimes New Roman.png 16
+Sample88/imgGeorgia.png 33
+Sample113/imgGeorgia.png 52
+Sample87/imgImpact.png 32
+Sample117/imgTrebuchet MS.png 56
+Sample110/imgArial.png 49
+Sample113/imgArial.png 52
+Sample88/imgVerdana.png 33
+Sample50/imgVerdana.png 2
+Sample80/imgTrebuchet MS.png 25
+Sample101/imgArial.png 40
+Sample69/imgComic Sans MS.png 14
+Sample88/imgTrebuchet MS.png 33
+Sample108/imgCourier New.png 47
+Sample69/imgImpact.png 14
+Sample119/imgVerdana.png 58
+Sample114/imgTrebuchet MS.png 53
+Sample54/imgVerdana.png 6
+Sample108/imgImpact.png 47
+Sample50/imgImpact.png 2
+Sample85/imgVerdana.png 30
+Sample107/imgTrebuchet MS.png 46
+Sample103/imgImpact.png 42
+Sample49/imgArial Narrow.png 1
+Sample72/imgTrebuchet MS.png 17
+Sample116/imgComic Sans MS.png 55
+Sample68/imgVerdana.png 13
+Sample122/imgCourier New.png 61
+Sample79/imgTrebuchet MS.png 24
+Sample117/imgImpact.png 56
+Sample89/imgImpact.png 34
+Sample98/imgGeorgia.png 37
+Sample78/imgComic Sans MS.png 23
+Sample78/imgArial.png 23
+Sample76/imgArial.png 21
+Sample73/imgVerdana.png 18
+Sample65/imgTimes New Roman.png 10
+Sample85/imgGeorgia.png 30
+Sample79/imgVerdana.png 24
+Sample52/imgArial.png 4
+Sample115/imgCourier New.png 54
+Sample109/imgCourier New.png 48
+Sample84/imgTimes New Roman.png 29
+Sample100/imgGeorgia.png 39
+Sample83/imgGeorgia.png 28
+Sample80/imgCourier New.png 25
+Sample85/imgArial.png 30
+Sample72/imgGeorgia.png 17
+Sample90/imgGeorgia.png 35
+Sample67/imgComic Sans MS.png 12
+Sample115/imgTrebuchet MS.png 54
+Sample116/imgCourier New.png 55
+Sample116/imgTrebuchet MS.png 55
+Sample71/imgVerdana.png 16
+Sample52/imgArial Black.png 4
+Sample70/imgTrebuchet MS.png 15
+Sample72/imgComic Sans MS.png 17
+Sample101/imgVerdana.png 40
+Sample120/imgArial.png 59
+Sample119/imgImpact.png 58
+Sample86/imgArial Black.png 31
+Sample78/imgGeorgia.png 23
+Sample49/imgImpact.png 1
+Sample102/imgComic Sans MS.png 41
+Sample84/imgCourier New.png 29
+Sample85/imgComic Sans MS.png 30
+Sample70/imgTimes New Roman.png 15
+Sample52/imgComic Sans MS.png 4
+Sample54/imgArial Black.png 6
+Sample66/imgTrebuchet MS.png 11
+Sample108/imgGeorgia.png 47
+Sample77/imgVerdana.png 22
+Sample116/imgVerdana.png 55
+Sample118/imgArial Black.png 57
+Sample116/imgImpact.png 55
+Sample69/imgArial.png 14
+Sample79/imgTimes New Roman.png 24
+Sample56/imgTimes New Roman.png 8
+Sample78/imgImpact.png 23
+Sample57/imgTimes New Roman.png 9
+Sample89/imgComic Sans MS.png 34
+Sample76/imgComic Sans MS.png 21
+Sample122/imgGeorgia.png 61
+Sample78/imgVerdana.png 23
+Sample100/imgVerdana.png 39
+Sample101/imgArial Black.png 40
+Sample86/imgCourier New.png 31
+Sample121/imgTrebuchet MS.png 60
+Sample49/imgTimes New Roman.png 1
+Sample83/imgArial.png 28
+Sample85/imgTrebuchet MS.png 30
+Sample66/imgGeorgia.png 11
+Sample108/imgTimes New Roman.png 47
+Sample70/imgVerdana.png 15
+Sample97/imgTimes New Roman.png 36
+Sample76/imgImpact.png 21
+Sample70/imgGeorgia.png 15
+Sample77/imgTrebuchet MS.png 22
+Sample97/imgComic Sans MS.png 36
+Sample56/imgArial Black.png 8
+Sample82/imgArial Black.png 27
+Sample121/imgArial Black.png 60
+Sample87/imgVerdana.png 32
+Sample73/imgArial.png 18
+Sample51/imgArial.png 3
+Sample77/imgTimes New Roman.png 22
+Sample113/imgComic Sans MS.png 52
+Sample86/imgArial.png 31
+Sample52/imgGeorgia.png 4
+Sample107/imgArial.png 46
+Sample51/imgCourier New.png 3
+Sample78/imgCourier New.png 23
+Sample89/imgVerdana.png 34
+Sample88/imgTimes New Roman.png 33
+Sample90/imgTrebuchet MS.png 35
+Sample76/imgVerdana.png 21
+Sample69/imgVerdana.png 14
+Sample66/imgVerdana.png 11
+Sample84/imgArial Black.png 29
+Sample83/imgTimes New Roman.png 28
+Sample52/imgTrebuchet MS.png 4
+Sample106/imgImpact.png 45
+Sample117/imgCourier New.png 56
+Sample48/imgArial.png 0
+Sample115/imgVerdana.png 54
+Sample120/imgVerdana.png 59
+Sample52/imgVerdana.png 4
+Sample110/imgVerdana.png 49
+Sample116/imgArial Black.png 55
+Sample51/imgTimes New Roman.png 3
+Sample77/imgArial Black.png 22
+Sample107/imgGeorgia.png 46
+Sample86/imgImpact.png 31
+Sample79/imgArial.png 24
+Sample57/imgTrebuchet MS.png 9
+Sample102/imgArial Black.png 41
+Sample74/imgGeorgia.png 19
+Sample56/imgCourier New.png 8
+Sample75/imgTimes New Roman.png 20
+Sample112/imgTimes New Roman.png 51
+Sample74/imgArial.png 19
+Sample65/imgArial.png 10
+Sample122/imgArial Black.png 61
+Sample118/imgCourier New.png 57
+Sample116/imgArial.png 55
+Sample98/imgVerdana.png 37
+Sample115/imgComic Sans MS.png 54
+Sample84/imgComic Sans MS.png 29
+Sample121/imgArial.png 60
+Sample104/imgTrebuchet MS.png 43
+Sample75/imgArial Black.png 20
+Sample88/imgCourier New.png 33
+Sample110/imgComic Sans MS.png 49
+Sample72/imgArial Black.png 17
+Sample83/imgImpact.png 28
+Sample101/imgCourier New.png 40
+Sample51/imgArial Black.png 3
+Sample102/imgGeorgia.png 41
+Sample56/imgArial Narrow.png 8
+Sample108/imgComic Sans MS.png 47
+Sample112/imgTrebuchet MS.png 51
+Sample52/imgArial Narrow.png 4
+Sample71/imgArial.png 16
+Sample76/imgArial Black.png 21
+Sample115/imgTimes New Roman.png 54
+Sample71/imgArial Black.png 16
+Sample88/imgComic Sans MS.png 33
+Sample52/imgImpact.png 4
+Sample121/imgTimes New Roman.png 60
+Sample53/imgTrebuchet MS.png 5
+Sample83/imgComic Sans MS.png 28
+Sample83/imgVerdana.png 28
+Sample121/imgVerdana.png 60
+Sample82/imgComic Sans MS.png 27
+Sample78/imgTrebuchet MS.png 23
+Sample117/imgArial.png 56
+Sample66/imgArial Black.png 11
+Sample74/imgVerdana.png 19
+Sample86/imgTrebuchet MS.png 31
+Sample114/imgVerdana.png 53
+Sample98/imgCourier New.png 37
+Sample119/imgTrebuchet MS.png 58
+Sample119/imgArial.png 58
+Sample82/imgGeorgia.png 27
+Sample57/imgGeorgia.png 9
+Sample56/imgArial.png 8
+Sample103/imgGeorgia.png 42
+Sample70/imgCourier New.png 15
+Sample120/imgTimes New Roman.png 59
+Sample98/imgArial.png 37
+Sample70/imgComic Sans MS.png 15
+Sample97/imgImpact.png 36
+Sample120/imgImpact.png 59
+Sample112/imgArial Black.png 51
+Sample117/imgArial Black.png 56
+Sample68/imgImpact.png 13
+Sample99/imgImpact.png 38
+Sample57/imgArial Narrow.png 9
+Sample77/imgComic Sans MS.png 22
+Sample67/imgGeorgia.png 12
+Sample87/imgComic Sans MS.png 32
+Sample72/imgImpact.png 17
+Sample80/imgComic Sans MS.png 25
+Sample81/imgTimes New Roman.png 26
+Sample90/imgArial.png 35
+Sample72/imgCourier New.png 17
+Sample79/imgCourier New.png 24
+Sample112/imgComic Sans MS.png 51
+Sample110/imgTrebuchet MS.png 49
+Sample55/imgArial Narrow.png 7
+Sample114/imgTimes New Roman.png 53
+Sample67/imgTimes New Roman.png 12
+Sample109/imgComic Sans MS.png 48
+Sample109/imgVerdana.png 48
+Sample54/imgArial.png 6
+Sample106/imgTrebuchet MS.png 45
+Sample77/imgCourier New.png 22
+Sample48/imgArial Black.png 0
+Sample108/imgVerdana.png 47
+Sample105/imgArial Black.png 44
+Sample74/imgComic Sans MS.png 19
+Sample69/imgGeorgia.png 14
+Sample79/imgImpact.png 24
+Sample50/imgTrebuchet MS.png 2
+Sample115/imgGeorgia.png 54
+Sample53/imgArial Black.png 5
+Sample67/imgVerdana.png 12
+Sample77/imgGeorgia.png 22
+Sample50/imgArial Narrow.png 2
+Sample106/imgCourier New.png 45
+Sample104/imgCourier New.png 43
+Sample85/imgArial Black.png 30
+Sample51/imgVerdana.png 3
+Sample119/imgGeorgia.png 58
+Sample65/imgComic Sans MS.png 10
+Sample103/imgComic Sans MS.png 42
+Sample50/imgArial Black.png 2
+Sample48/imgVerdana.png 0
+Sample67/imgImpact.png 12
+Sample80/imgArial.png 25
+Sample80/imgArial Black.png 25
+Sample49/imgComic Sans MS.png 1
+Sample89/imgArial.png 34
+Sample90/imgComic Sans MS.png 35
+Sample84/imgTrebuchet MS.png 29
+Sample103/imgArial.png 42
+Sample72/imgArial.png 17
+Sample110/imgGeorgia.png 49
+Sample88/imgArial.png 33
+Sample79/imgArial Black.png 24
+Sample122/imgComic Sans MS.png 61
+Sample115/imgImpact.png 54
+Sample106/imgArial Black.png 45
+Sample74/imgCourier New.png 19
+Sample109/imgTrebuchet MS.png 48
+Sample106/imgGeorgia.png 45
+Sample89/imgTrebuchet MS.png 34
+Sample49/imgArial Black.png 1
+Sample70/imgImpact.png 15
+Sample82/imgTimes New Roman.png 27
+Sample115/imgArial Black.png 54
+Sample108/imgTrebuchet MS.png 47
+Sample68/imgArial.png 13
+Sample65/imgArial Black.png 10
+Sample98/imgComic Sans MS.png 37
+Sample101/imgTimes New Roman.png 40
+Sample49/imgCourier New.png 1
+Sample106/imgArial.png 45
+Sample111/imgArial Black.png 50
+Sample67/imgArial Black.png 12
+Sample49/imgGeorgia.png 1
+Sample102/imgArial.png 41
+Sample107/imgComic Sans MS.png 46
+Sample48/imgTimes New Roman.png 0
+Sample55/imgImpact.png 7
+Sample66/imgTimes New Roman.png 11
+Sample72/imgVerdana.png 17
+Sample81/imgComic Sans MS.png 26
+Sample116/imgGeorgia.png 55
+Sample79/imgGeorgia.png 24
+Sample90/imgImpact.png 35
+Sample100/imgTrebuchet MS.png 39
+Sample114/imgImpact.png 53
+Sample90/imgTimes New Roman.png 35
+Sample78/imgTimes New Roman.png 23
+Sample122/imgTrebuchet MS.png 61
+Sample110/imgTimes New Roman.png 49
+Sample97/imgVerdana.png 36
+Sample54/imgTrebuchet MS.png 6
+Sample57/imgCourier New.png 9
+Sample71/imgComic Sans MS.png 16
+Sample67/imgArial.png 12
+Sample50/imgArial.png 2
+Sample118/imgTrebuchet MS.png 57
+Sample101/imgImpact.png 40
+Sample120/imgArial Black.png 59
+Sample112/imgVerdana.png 51
+Sample75/imgImpact.png 20
+Sample97/imgGeorgia.png 36
+Sample73/imgTrebuchet MS.png 18
+Sample68/imgGeorgia.png 13
+Sample66/imgArial.png 11
+Sample85/imgTimes New Roman.png 30
+Sample82/imgArial.png 27
+Sample76/imgGeorgia.png 21
+Sample84/imgArial.png 29
+Sample84/imgVerdana.png 29
+Sample105/imgTimes New Roman.png 44
+Sample55/imgGeorgia.png 7
+Sample117/imgComic Sans MS.png 56
+Sample99/imgVerdana.png 38
+Sample84/imgGeorgia.png 29
+Sample51/imgComic Sans MS.png 3
+Sample66/imgImpact.png 11
+Sample105/imgGeorgia.png 44
+Sample78/imgArial Black.png 23
+Sample81/imgCourier New.png 26
+Sample65/imgTrebuchet MS.png 10
+Sample74/imgImpact.png 19
+Sample121/imgComic Sans MS.png 60
+Sample76/imgCourier New.png 21
+Sample77/imgImpact.png 22
+Sample102/imgTrebuchet MS.png 41
+Sample98/imgTimes New Roman.png 37
+Sample89/imgCourier New.png 34
+Sample105/imgComic Sans MS.png 44
+Sample56/imgVerdana.png 8
+Sample111/imgTimes New Roman.png 50
+Sample66/imgComic Sans MS.png 11
+Sample101/imgGeorgia.png 40
+Sample87/imgCourier New.png 32
+Sample53/imgVerdana.png 5
+Sample75/imgTrebuchet MS.png 20
+Sample55/imgTimes New Roman.png 7
+Sample68/imgComic Sans MS.png 13
+Sample77/imgArial.png 22
+Sample54/imgTimes New Roman.png 6
+Sample105/imgCourier New.png 44
+Sample81/imgGeorgia.png 26
+Sample107/imgCourier New.png 46
+Sample85/imgImpact.png 30
+Sample108/imgArial.png 47
+Sample53/imgTimes New Roman.png 5
+Sample104/imgTimes New Roman.png 43
+Sample113/imgVerdana.png 52
+Sample122/imgTimes New Roman.png 61
+Sample73/imgComic Sans MS.png 18
+Sample86/imgVerdana.png 31
+Sample100/imgArial Black.png 39
+Sample102/imgVerdana.png 41
+Sample118/imgImpact.png 57
+Sample107/imgArial Black.png 46
+Sample81/imgTrebuchet MS.png 26
+Sample119/imgTimes New Roman.png 58
+Sample101/imgComic Sans MS.png 40
+Sample118/imgComic Sans MS.png 57
+Sample53/imgGeorgia.png 5
+Sample51/imgArial Narrow.png 3
+Sample97/imgArial Black.png 36
+Sample114/imgCourier New.png 53
+Sample76/imgTrebuchet MS.png 21
+Sample86/imgTimes New Roman.png 31
+Sample118/imgGeorgia.png 57
+Sample81/imgImpact.png 26
+Sample104/imgComic Sans MS.png 43
+Sample109/imgTimes New Roman.png 48
+Sample49/imgArial.png 1
+Sample71/imgTrebuchet MS.png 16
+Sample119/imgComic Sans MS.png 58
+Sample113/imgTimes New Roman.png 52
+Sample120/imgTrebuchet MS.png 59
+Sample121/imgImpact.png 60
+Sample53/imgArial.png 5
+Sample50/imgCourier New.png 2
+Sample108/imgArial Black.png 47
+Sample50/imgGeorgia.png 2
+Sample87/imgGeorgia.png 32
+Sample68/imgTrebuchet MS.png 13
+Sample51/imgTrebuchet MS.png 3
+Sample103/imgVerdana.png 42
+Sample57/imgArial Black.png 9
+Sample122/imgImpact.png 61
+Sample65/imgGeorgia.png 10
+Sample106/imgVerdana.png 45
+Sample105/imgVerdana.png 44
+Sample120/imgComic Sans MS.png 59
+Sample119/imgArial Black.png 58
+Sample115/imgArial.png 54
+Sample88/imgArial Black.png 33
+Sample80/imgImpact.png 25
+Sample114/imgComic Sans MS.png 53
+Sample112/imgArial.png 51
+Sample97/imgArial.png 36
+Sample73/imgGeorgia.png 18
+Sample55/imgTrebuchet MS.png 7
+Sample53/imgArial Narrow.png 5
+Sample54/imgCourier New.png 6
+Sample104/imgGeorgia.png 43
+Sample102/imgTimes New Roman.png 41
+Sample99/imgComic Sans MS.png 38
+Sample119/imgCourier New.png 58
+Sample65/imgImpact.png 10
+Sample83/imgArial Black.png 28
+Sample102/imgCourier New.png 41
+Sample55/imgComic Sans MS.png 7
+Sample121/imgGeorgia.png 60
+Sample80/imgTimes New Roman.png 25
+Sample70/imgArial Black.png 15
+Sample118/imgArial.png 57
+Sample69/imgTrebuchet MS.png 14
+Sample83/imgCourier New.png 28
+Sample55/imgArial Black.png 7
+Sample76/imgTimes New Roman.png 21
+Sample54/imgArial Narrow.png 6
+Sample49/imgVerdana.png 1
+Sample104/imgImpact.png 43
+Sample99/imgArial.png 38
+Sample109/imgArial Black.png 48
+Sample112/imgGeorgia.png 51
+Sample57/imgVerdana.png 9
+Sample73/imgTimes New Roman.png 18
+Sample48/imgComic Sans MS.png 0
